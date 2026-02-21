@@ -44,8 +44,4 @@ https://err0r9999k.github.io/FreeRanksClient/
 > Check **enabled** client in Tampermonkey or no  
 > Check **enabled** Tampermonkey in browser or no  
 
-<table>
-<tr>
-  <td>$${\color{green} \verb|**|text}$$</td>
-</tr>
-</table>
+{\color{green} \verb|**|text}
