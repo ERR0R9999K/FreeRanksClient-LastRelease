@@ -77,31 +77,15 @@ https://discord.com/users/ERR0R9999K
 ```
 | Bloxd color | Preview |
 |:------------|:-------:|
-| Frost       |    █    |
-| Lemon       |    █    |
-| Sprout      |    █    |
-| Neon        |    █    |
-| Mint        |    █    |
-| Cyan        |    █    |
-| Azure       |    █    |
-| Orchid      |    █    |
-| Bubblegum   |    █    |
-| Coral       |    █    |
-| Apricot     |    █    |
-| Amber       |    █    |
-
-
-Use Bloxd Io colors:
-${\color{#dff8ff}Fros█t}$
-Frost #dff8ff
-Lemon #ffff66
-Sprout #b3ff66
-Neon #66ff66
-Mint #66ffb3
-Cyan #66ffff
-Azure #66bcff
-Orchid #cc66ff
-Bubblegum #ff80bb
-Coral #ff6666
-Apricot #ffaa66
-Amber #ffcc66
+| Frost       | ${\color{#dff8ff}█}$ |
+| Lemon       | ${\color{#ffff66}█}$ |
+| Sprout      | ${\color{#b3ff66}█}$ |
+| Neon        | ${\color{#66ff66}█}$ |
+| Mint        | ${\color{#66ffb3}█}$ |
+| Cyan        | ${\color{#66ffff}█}$ |
+| Azure       | ${\color{#66bcff}█}$ |
+| Orchid      | ${\color{#cc66ff}█}$ |
+| Bubblegum   | ${\color{#ff80bb}█}$ |
+| Coral       | ${\color{#ff6666}█}$ |
+| Apricot     | ${\color{#ffaa66}█}$ |
+| Amber       | ${\color{#ffcc66}█}$ |
