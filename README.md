@@ -77,7 +77,7 @@ https://discord.com/users/ERR0R9999K
 ```
 
 Use Bloxd Io colors:
-${\color{#cc66ff}Fros█t}$
+${\color{#cc66ff}Fros████t}$
 Frost #dff8ff
 Lemon #ffff66
 Sprout #b3ff66
