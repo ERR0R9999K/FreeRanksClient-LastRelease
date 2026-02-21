@@ -63,7 +63,7 @@ Message @ERR0R9999K on Discord with:
 - 📸 Bloxd.io main page screenshot with username
 - 🏷️ Your username (as text)
 - 👑 Desired rank (Developer, Admin, YouTuber, Super, etc.)
-- 🎨 Desired username color
+- 🎨 Desired username color(HEX, ColorName, Bloxd Colour)
 ```
 https://discord.com/users/ERR0R9999K
 ```
@@ -71,9 +71,9 @@ https://discord.com/users/ERR0R9999K
 ### Message:
 ```
 - "📸Screenshot"
-- Username: YT__ERR0R9999K__YT
-- Ranks: Developer, Admin
-- Nickname color: #ff0000 (Red)
+- 🏷️Username: YT__ERR0R9999K__YT
+- 👑Ranks: Developer, Admin
+- 🎨Nickname color: #ff0000 (Red)
 ```
 | Bloxd color | Preview |
 |:------------|:-------:|
@@ -89,3 +89,7 @@ https://discord.com/users/ERR0R9999K
 | Coral       | ${\color{#ff6666}█}$ |
 | Apricot     | ${\color{#ffaa66}█}$ |
 | Amber       | ${\color{#ffcc66}█}$ |
+
+> [!TIP]   
+> If all the requirements are met, then the titles will be awarded within a certain time!
+
