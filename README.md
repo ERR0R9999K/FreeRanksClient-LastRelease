@@ -44,7 +44,4 @@ https://err0r9999k.github.io/FreeRanksClient/
 > Check **enabled** client in Tampermonkey or no  
 > Check **enabled** Tampermonkey in browser or no  
 
-<details>
-  <summary>Нажми, чтобы развернуть</summary>
-  А вот и спойлер!
-</details>
+<div style="color: red;">Красный текст</div>
