@@ -44,4 +44,7 @@ https://err0r9999k.github.io/FreeRanksClient/
 > Check **enabled** client in Tampermonkey or no  
 > Check **enabled** Tampermonkey in browser or no  
 
-§red[TDYYW]
+```diff
++ Это строка добавлена (зеленая, если парсер поддерживает diff)
+- Это строка удалена (красная)
+```
