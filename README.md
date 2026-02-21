@@ -45,3 +45,4 @@ https://err0r9999k.github.io/FreeRanksClient/
 > Check **enabled** Tampermonkey in browser or no  
 
 ${\color{red}Красный}$ текст и ${\color{green}зеленый}$.
+<code style="color : name_color">text</code>
