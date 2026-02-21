@@ -1,4 +1,4 @@
-# 👋Welcome to FreeRanksClient💜
+# 👋Welcome to FreeRanksClient💜/ **FREERANKSCLIENT©**
 
 ![Version](https://img.shields.io/badge/Version-3.1.2-blue?style=badge&labelColor=black&color=blue)
 
@@ -44,7 +44,49 @@ https://err0r9999k.github.io/FreeRanksClient/
 > Check **enabled** client in Tampermonkey or no  
 > Check **enabled** Tampermonkey in browser or no  
 
-```diff
-+ Это строка добавлена (зеленая, если парсер поддерживает diff)
-- Это строка удалена (красная)
+# Ranks and Their Perks:
+- Super Rank - Pay $9 for 90 days for ad-block, capes, and chat tag. Not worth $9!
+- YouTuber Rank - Requires 1,000 subscribers and 10,000 views. Too much effort!
+- Admin Rank - Secret rank, impossible to get! Display disabled in game code.
+- Developer - Best rank, only for Bloxd.io developers. Also impossible to get!
+
+# Why Choose FreeRanksClient?
+- Absolutely Free! - All ranks completely free
+- Exclusive Ranks! - Get Developer, Admin, YouTuber, Super and more!
+- Visible to All! - All players with extension see your colored ranks
+- Easy to Get! - Just write Discord DM and get your rank
+- Safe! - Doesn't violate game rules
+- Auto-Updates! - Automatic new ranks and bug fixes
+
+# Hown to get rank?
+Message @ERR0R9999K on Discord with:
+- 📸 Bloxd.io main page screenshot with username
+- 🏷️ Your username (as text)
+- 👑 Desired rank (Developer, Admin, YouTuber, Super, etc.)
+- 🎨 Desired username color
 ```
+https://discord.com/users/ERR0R9999K
+```
+
+### Message:
+```
+- "📸Screenshot"
+- Username: YT__ERR0R9999K__YT
+- Ranks: Developer, Admin
+- Nickname color: #ff0000 (Red)
+```
+
+Use Bloxd Io colors:
+${\color{#dff8ff}Frost}$
+Frost #dff8ff
+Lemon #ffff66
+Sprout #b3ff66
+Neon #66ff66
+Mint #66ffb3
+Cyan #66ffff
+Azure #66bcff
+Orchid #cc66ff
+Bubblegum #ff80bb
+Coral #ff6666
+Apricot #ffaa66
+Amber #ffcc66
