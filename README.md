@@ -100,7 +100,7 @@ https://discord.com/users/ERR0R9999K
 | FREE | ⚡Super Rank | FRC |
 |:----:|:-------------:|:---:|
 | ${\color{#1dd06d}✓}$ Play Bloxd | ${\color{#1dd06d}✓}$ Play Bloxd | ${\color{#1dd06d}✓}$ Play Bloxd |
-| ${\color{#ff0000}×}$${\color{#ff0000}×}$  | ${\color{#1dd06d}✓}$ Play Bloxd | ${\color{#1dd06d}✓}$ Play Bloxd |
+| ${\color{#ff0000}×\color{#00ff00}×}$  | ${\color{#1dd06d}✓}$ Play Bloxd | ${\color{#1dd06d}✓}$ Play Bloxd |
 
 
 
