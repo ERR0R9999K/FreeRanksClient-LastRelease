@@ -75,9 +75,13 @@ https://discord.com/users/ERR0R9999K
 - Ranks: Developer, Admin
 - Nickname color: #ff0000 (Red)
 ```
+| Bloxd color | Заголовок 2 |
+|-------------|-------------|
+| Ячейка 1    | Ячейка 2    |
+
 
 Use Bloxd Io colors:
-${\color{#cc66ff}Fros████t}$
+${\color{#dff8ff}Fros█t}$
 Frost #dff8ff
 Lemon #ffff66
 Sprout #b3ff66
