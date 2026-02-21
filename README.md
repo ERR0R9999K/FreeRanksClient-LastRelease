@@ -77,7 +77,7 @@ https://discord.com/users/ERR0R9999K
 ```
 | Bloxd color | Preview |
 |-------------|-------------|
-| Ячейка 1    | Ячейка 2    |
+|: Ячейка 1    :|: Ячейка 2    :|
 
 
 Use Bloxd Io colors:
