@@ -75,7 +75,7 @@ https://discord.com/users/ERR0R9999K
 - Ranks: Developer, Admin
 - Nickname color: #ff0000 (Red)
 ```
-| Bloxd color | Заголовок 2 |
+| Bloxd color | Preview |
 |-------------|-------------|
 | Ячейка 1    | Ячейка 2    |
 
