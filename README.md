@@ -76,8 +76,19 @@ https://discord.com/users/ERR0R9999K
 - Nickname color: #ff0000 (Red)
 ```
 | Bloxd color | Preview |
-|-------------|-------------|
-|: Ячейка 1 :|: Ячейка 2 :|
+|-------------|---------|
+| Frost | █ |
+| Lemon | █ |
+| Sprout | █ |
+| Neon | █ |
+| Mint | █ |
+| Cyan | █ |
+| Azure | █ |
+| Orchid | █ |
+| Bubblegum | █ |
+| Coral | █ |
+| Apricot | █ |
+| Amber | █ |
 
 
 Use Bloxd Io colors:
