@@ -44,4 +44,4 @@ https://err0r9999k.github.io/FreeRanksClient/
 > Check **enabled** client in Tampermonkey or no  
 > Check **enabled** Tampermonkey in browser or no  
 
-{\color{green} \verb|**|text}
+${\color{red}Красный}$ текст и ${\color{green}зеленый}$.
