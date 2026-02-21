@@ -95,3 +95,35 @@ https://discord.com/users/ERR0R9999K
 
 > [!CAUTION]   
 > **To get a rank, write to discord! Do not write in the comments under the video about getting the ranks! This way, the time to obtain the rank can be increased!**
+
+# Free / Super / FRC Perks
+| FREE | ⚡Super Rank | FRC |
+|:----:|:-------------:|:---:|
+| ${\color{#1dd06d}✓}$ Play Bloxd | g | g |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
