@@ -92,3 +92,6 @@ https://discord.com/users/ERR0R9999K
 
 > [!IMPORTANT]   
 > If all the requirements are met, then the titles will be awarded within a certain time!
+
+> [!CAUTION]   
+> **To get a rank, write to discord! Do not write in the comments under the video about getting the ranks! This way, the time to obtain the rank can be increased!**
