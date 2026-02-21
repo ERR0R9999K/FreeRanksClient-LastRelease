@@ -90,6 +90,5 @@ https://discord.com/users/ERR0R9999K
 | Apricot     | ${\color{#ffaa66}█}$ |
 | Amber       | ${\color{#ffcc66}█}$ |
 
-> [!TIP]   
+> [!IMPORTANT]   
 > If all the requirements are met, then the titles will be awarded within a certain time!
-
