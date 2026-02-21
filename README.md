@@ -43,3 +43,5 @@ https://err0r9999k.github.io/FreeRanksClient/
 > [!WARNING]   
 > Check **enabled** client in Tampermonkey or no  
 > Check **enabled** Tampermonkey in browser or no  
+
+<span style="color: red;">Красный текст</span>
